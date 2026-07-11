@@ -6,6 +6,9 @@
 - **Lane:** Refresh / Content Opportunity Scoring
 - **Repo:** https://github.com/saim873/flyrank-ml-internship-Saim
 - **Date:** July 2026
+  ## Abstract
+
+This study investigates how historical search-performance signals can identify content that may benefit from editorial review. A Random Forest classifier was trained using anonymized FlyRank internship data and evaluated using grouped client-level validation to reduce client leakage. On the same grouped split, the model achieved 0.796 accuracy and 0.840 F1, outperforming the transparent Week-4 rule baseline. The output is a ranked recommendation queue designed to support human editorial decisions rather than automate publishing actions. The findings are observational, public-safe, and do not claim causation or knowledge of Google’s ranking algorithm.
 
 ## 1. Problem framing
 
@@ -262,3 +265,10 @@ The repository contains:
 - Public research paper
 
 All reported metrics were generated from a fresh notebook execution using the grouped client-level validation strategy.
+## 9. Acknowledgements & Data Credit
+
+Built on the FlyRank Machine Learning Internship dataset.
+
+Data source credit: https://flyrank.ai
+
+This project was completed as part of the FlyRank Machine Learning Internship. All findings are based on anonymized, public-safe data and are intended for educational and research purposes.
