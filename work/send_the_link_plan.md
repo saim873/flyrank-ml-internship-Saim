@@ -33,7 +33,7 @@ I have set a calendar reminder to begin and add this case study to my portfolio.
 - **Time:** 7:00 PM
   ### Reminder Evidence
 
-![Calendar Reminder](week10reminder.png)
+![Calendar Reminder](week10_reminder.png)
 
 ## Preserved Build Context
 
