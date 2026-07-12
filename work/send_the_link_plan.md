@@ -31,6 +31,9 @@ I have set a calendar reminder to begin and add this case study to my portfolio.
 - **Reminder title:** Build and Publish EE Fault Detection Case Study
 - **Target date:** 15 August 2026
 - **Time:** 7:00 PM
+  ### Reminder Evidence
+
+![Calendar Reminder](week10reminder.png)
 
 ## Preserved Build Context
 
